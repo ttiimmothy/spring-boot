@@ -174,4 +174,4 @@ The https://spring.io/[spring.io] site contains several guides that show how to 
 
 
 == License
-Spring Boot is licensed under [GNU General Public License v3.0](LICENSE).
+Spring Boot is licensed under link:LICENSE[GNU General Public License v3.0].
